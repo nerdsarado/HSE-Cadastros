@@ -1,0 +1,46 @@
+{
+  "mapeamentoDireto": {
+    "tv": "TELEVIS\u00C3O",
+    "garrafa": "GARRAFA TERMICA",
+    "teste": "CAIXAS",
+    "repelente": "SPRAY",
+    "spray": "SPRAY",
+    "prof": "SPRAY",
+    "4hs": "SPRAY",
+    "nutriex": "SPRAY",
+    "100ml": "SPRAY",
+    "62646": "SPRAY"
+  },
+  "mapeamentoPorPalavrasChave": {
+    "TELEVIS\u00C3O": [
+      "tv",
+      "televisao",
+      "televis\u00E3o"
+    ],
+    "CAIXAS": [
+      "teste"
+    ],
+    "GARRAFA TERMICA": [
+      "garrafa"
+    ],
+    "SPRAY": [
+      "repelente",
+      "spray",
+      "prof",
+      "4hs",
+      "nutriex",
+      "100ml",
+      "62646"
+    ]
+  },
+  "configuracoes": {
+    "similaridadeMinima": 0.7,
+    "palavraMinimaTamanho": 3,
+    "ignorarPalavras": [
+      "de",
+      "da",
+      "do",
+      "com"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "ProdutoRequest": {
+      "requestId": "2872a857-f06a-4f1a-bc4c-c34177b82132",
+      "descricao": "SAMSUNG GALAXY A16 5G TELA 6 7 SUPER AMOLED 90HZ 128GB",
+      "ncm": "85171300",
+      "custo": 997,
+      "Timestamp": "2025-12-23T16:57:43.3890913-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2025-12-23T17:00:21.1158921-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  }
+]

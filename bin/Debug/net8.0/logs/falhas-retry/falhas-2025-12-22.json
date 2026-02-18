@@ -1,0 +1,47 @@
+[
+  {
+    "ProdutoRequest": {
+      "requestId": "9bf42f04-68c5-4021-91f9-8d6258bddecb",
+      "descricao": "CALCO DE BORRACHA PODIUM C/ PARAFUSO HULTER TUBO BLIND BRANCO INVERTER 3/8 X 10MM SC 300 39173290 TUBO BLIND BRANCO INVERTER 7/8 X 10MM SC 160 39173290",
+      "ncm": "40169990",
+      "custo": 9.29,
+      "Timestamp": "2025-12-22T16:53:20.4716148-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2025-12-22T16:55:58.0706953-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  },
+  {
+    "ProdutoRequest": {
+      "requestId": "3578a17b-0e28-4ab9-8125-7202f2b08f2f",
+      "descricao": "CANO COBRE PANC 1/32F 3/8 4 N",
+      "ncm": "74111010",
+      "custo": 9.52,
+      "Timestamp": "2025-12-22T16:56:47.7303111-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2025-12-22T16:59:51.3601806-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  },
+  {
+    "ProdutoRequest": {
+      "requestId": "3eff5199-33d5-405c-9740-82a1c9090e88",
+      "descricao": "CANO COBRE PANC 1/32F 5/8 3 N",
+      "ncm": "74111010",
+      "custo": 115,
+      "Timestamp": "2025-12-22T17:00:42.9873331-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2025-12-22T17:03:46.8491365-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  }
+]

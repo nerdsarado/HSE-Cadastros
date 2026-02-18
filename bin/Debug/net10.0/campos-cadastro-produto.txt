@@ -1,0 +1,2 @@
+cbFilial (tipo: text)
+edBusca (tipo: text)

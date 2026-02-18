@@ -1,0 +1,32 @@
+[
+  {
+    "ProdutoRequest": {
+      "requestId": "prod_1770127222837_0k8x",
+      "descricao": "3924.90.00 - CARRINHO ORGANIZADOR MULTIUSO 3 PRATELEIRAS EM A\u00C7O COM RODINHA",
+      "ncm": "39249000",
+      "custo": 140,
+      "Timestamp": "2026-02-03T11:00:23.9356394-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2026-02-03T11:01:46.7199639-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  },
+  {
+    "ProdutoRequest": {
+      "requestId": "prod_1770134715566_fpt0",
+      "descricao": "Trena curta de a\u00E7o 5 m x 19 mm VONDER",
+      "ncm": "90178010",
+      "custo": 10.02,
+      "Timestamp": "2026-02-03T13:05:16.5003858-03:00",
+      "Prioridade": 1,
+      "Tentativas": 0
+    },
+    "MensagemErro": "Falha ap\u00F3s 3 tentativas com recupera\u00E7\u00E3o",
+    "DataFalha": "2026-02-03T13:06:35.9588464-03:00",
+    "Tentativas": 1,
+    "MotivoFalha": "desconhecido"
+  }
+]
