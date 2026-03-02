@@ -53,6 +53,8 @@ namespace HSE.Automation
             try
             {
                 // Inicia todos os serviços simultaneamente
+                var groqClient = new GroqClient("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");
+                await groqClient.TestarConexao();
                 await Log();
 
             }
