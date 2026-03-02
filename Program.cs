@@ -52,8 +52,13 @@ namespace HSE.Automation
 
             try
             {
+                var builder = WebApplication.CreateBuilder(args);
+
+                // Carrega configurações
+                var configuration = builder.Configuration;
+
                 // Inicia todos os serviços simultaneamente
-                var groqClient = new GroqClient("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");
+                var groqClient = new GroqClient(configuration["GroqApi:ApiKey"], configuration.GetSection("GroqApi")["BaseUrl"]);
                 await groqClient.TestarConexao();
                 await Log();
 
@@ -880,7 +885,7 @@ namespace HSE.Automation
             }
         }
 
-        public override void Write(string? value)
+        public override void Write(string value)
         {
             foreach (var writer in _writers)
             {
@@ -888,7 +893,7 @@ namespace HSE.Automation
             }
         }
 
-        public override void WriteLine(string? value)
+        public override void WriteLine(string value)
         {
             foreach (var writer in _writers)
             {

@@ -68,7 +68,7 @@
             },
             "Microsoft.Playwright.NUnit": {
               "target": "Package",
-              "version": "[1.58.0, )"
+              "version": "[1.40.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
