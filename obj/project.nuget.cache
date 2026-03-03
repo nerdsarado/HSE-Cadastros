@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMy23Y7HPAs=",
+  "dgSpecHash": "ZIPj6zkV8SM=",
   "success": true,
-  "projectFilePath": "C:\\GIT-Cadastro\\HSE\\HSE.csproj",
+  "projectFilePath": "C:\\Users\\meyri\\source\\repos\\HSE-Cadastros\\HSE-Cadastros\\HSE-Cadastros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\meyri\\.nuget\\packages\\epplus\\7.4.2\\epplus.7.4.2.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
@@ -42,6 +42,7 @@
     "C:\\Users\\meyri\\.nuget\\packages\\microsoft.playwright.testadapter\\1.40.0\\microsoft.playwright.testadapter.1.40.0.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.3.0\\microsoft.testplatform.objectmodel.17.3.0.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\meyri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\meyri\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
